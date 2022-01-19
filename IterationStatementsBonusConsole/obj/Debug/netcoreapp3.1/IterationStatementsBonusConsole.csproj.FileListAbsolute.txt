@@ -1,0 +1,14 @@
+C:\Users\Adam\TrueCoders\repos\IterationStatementsBonus\IterationStatementsBonusConsole\bin\Debug\netcoreapp3.1\IterationStatementsBonusConsole.exe
+C:\Users\Adam\TrueCoders\repos\IterationStatementsBonus\IterationStatementsBonusConsole\bin\Debug\netcoreapp3.1\IterationStatementsBonusConsole.deps.json
+C:\Users\Adam\TrueCoders\repos\IterationStatementsBonus\IterationStatementsBonusConsole\bin\Debug\netcoreapp3.1\IterationStatementsBonusConsole.runtimeconfig.json
+C:\Users\Adam\TrueCoders\repos\IterationStatementsBonus\IterationStatementsBonusConsole\bin\Debug\netcoreapp3.1\IterationStatementsBonusConsole.runtimeconfig.dev.json
+C:\Users\Adam\TrueCoders\repos\IterationStatementsBonus\IterationStatementsBonusConsole\bin\Debug\netcoreapp3.1\IterationStatementsBonusConsole.dll
+C:\Users\Adam\TrueCoders\repos\IterationStatementsBonus\IterationStatementsBonusConsole\bin\Debug\netcoreapp3.1\IterationStatementsBonusConsole.pdb
+C:\Users\Adam\TrueCoders\repos\IterationStatementsBonus\IterationStatementsBonusConsole\obj\Debug\netcoreapp3.1\IterationStatementsBonusConsole.csproj.AssemblyReference.cache
+C:\Users\Adam\TrueCoders\repos\IterationStatementsBonus\IterationStatementsBonusConsole\obj\Debug\netcoreapp3.1\IterationStatementsBonusConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\TrueCoders\repos\IterationStatementsBonus\IterationStatementsBonusConsole\obj\Debug\netcoreapp3.1\IterationStatementsBonusConsole.AssemblyInfoInputs.cache
+C:\Users\Adam\TrueCoders\repos\IterationStatementsBonus\IterationStatementsBonusConsole\obj\Debug\netcoreapp3.1\IterationStatementsBonusConsole.AssemblyInfo.cs
+C:\Users\Adam\TrueCoders\repos\IterationStatementsBonus\IterationStatementsBonusConsole\obj\Debug\netcoreapp3.1\IterationStatementsBonusConsole.csproj.CoreCompileInputs.cache
+C:\Users\Adam\TrueCoders\repos\IterationStatementsBonus\IterationStatementsBonusConsole\obj\Debug\netcoreapp3.1\IterationStatementsBonusConsole.dll
+C:\Users\Adam\TrueCoders\repos\IterationStatementsBonus\IterationStatementsBonusConsole\obj\Debug\netcoreapp3.1\IterationStatementsBonusConsole.pdb
+C:\Users\Adam\TrueCoders\repos\IterationStatementsBonus\IterationStatementsBonusConsole\obj\Debug\netcoreapp3.1\IterationStatementsBonusConsole.genruntimeconfig.cache
